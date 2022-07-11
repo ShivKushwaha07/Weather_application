@@ -1,3 +1,2 @@
-# Weather_application
-weather-web-application-by-shiv.netlify.app
+# weather application weather-web-application-by-shiv.netlify.app
 Here the link
